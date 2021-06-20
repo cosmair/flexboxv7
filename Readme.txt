@@ -1,0 +1,1 @@
+Testing for older HTC and Samsung-X phones only.
